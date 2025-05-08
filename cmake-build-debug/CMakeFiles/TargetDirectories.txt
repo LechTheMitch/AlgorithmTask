@@ -1,0 +1,3 @@
+/home/gamal/Projects/AlogorithmTask/cmake-build-debug/CMakeFiles/AlogorithmTask.dir
+/home/gamal/Projects/AlogorithmTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gamal/Projects/AlogorithmTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
